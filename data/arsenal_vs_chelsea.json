@@ -1,0 +1,31 @@
+{
+    "match_info": {
+      "competition": "Premier League",
+      "season": "2025/2026",
+      "date": "2026-03-15",
+      "homeTeam": {
+        "name": "Arsenal",
+        "formation": "4-3-3"
+      },
+      "awayTeam": {
+        "name": "Chelsea",
+        "formation": "4-2-3-1"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "venue": {
+        "name": "Emirates Stadium",
+        "city": "Londres"
+      },
+      "referee": {
+        "name": "Anthony Taylor"
+      }
+    },
+    "statistics": {
+      "possession": {"home": "58%", "away": "42%"},
+      "shots": {"home": 16, "away": 9},
+      "shotsOnTarget": {"home": 7, "away": 3},
+      "fouls": {"home": 10, "away": 14},
+      "yellowCards": {"home": 2, "away": 3}
+    }
+  }
